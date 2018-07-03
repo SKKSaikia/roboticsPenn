@@ -24,17 +24,20 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
                   Jianbo Shi
                   Kostas Daniilidis
                   Sid Deliwala
-# Association
+                  
+# Association [Robotics Association]
 [Stanford Robotics Club](http://roboticsclub.stanford.edu/)
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
 Being a Team Member of Stanford's Robotic Club is itself an honour to work with amazing
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/roboaec.png">
 
-Inspiration - Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google
+# Inspiration
+Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google
 
 [Stanford](https://cs.stanford.edu/groups/manips/) | [CMU](https://www.ri.cmu.edu/) | [MIT](https://robotics.mit.edu/) , [Team](http://roboteam.mit.edu/) | [Harvard](http://hrl.harvard.edu/people/) | [Cornell](http://www.robotics.cornell.edu/courses/) | [QUT: Robotics Vision](https://robotacademy.net.au/)
 
-Resources:
+# Resources : (Courses I followed)
+
 [Stanford : CS223A - Introduction to Robotics](https://see.stanford.edu/Course/CS223A/33) [- My Takeaway](#)
 
 [MIT : 6.832 - Underactuated Robotics](http://underactuated.mit.edu/underactuated.html) [, edX](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/) [- My Takeaway](#)
