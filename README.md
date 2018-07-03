@@ -4,17 +4,17 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 
 # Courses:
 
-[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)  [[ My takeaway ]](#)
+[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)  [ [ My takeaway ](#) ]
 
-[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [[ My takeaway ]](#)
+[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [ [ My takeaway ](#) ]
 
-[Robotics: Perception](https://www.coursera.org/learn/robotics-perception/)
+[Robotics: Perception](https://www.coursera.org/learn/robotics-perception/)  [ [ My takeaway ](#) ]
 
-[Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning/)
+[Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning/)  [ [ My takeaway ](#) ]
 
-[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight/)
+[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight/)  [ [ My takeaway ](#) ]
 
-[Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/) 
+[Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/)   [ [ My Project ](#) ]
 
 # Taught By :
     Professors :  Vijay Kumar
