@@ -4,7 +4,7 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 
 # Courses:
 
-[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)  [ [ My takeaway ](#) ] [[certificate](#)], [Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [ [ My takeaway ](#) ] [[certificate](#)], [Robotics: Perception](https://www.coursera.org/learn/robotics-perception/)  [ [ My takeaway ](#) ] [[certificate](#)], [Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning/)  [ [ My takeaway ](#) ] [[certificate](#)], [Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight/)  [ [ My takeaway ](#) ] [[certificate](#)], [Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/)  [ [ My Project ](#) ] [[certificate](#)]
+◉[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)  [ [ My takeaway ](#) ] [[certificate](#)], ◉[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [ [ My takeaway ](#) ] [[certificate](#)], ◉[Robotics: Perception](https://www.coursera.org/learn/robotics-perception/)  [ [ My takeaway ](#) ] [[certificate](#)], ◉[Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning/)  [ [ My takeaway ](#) ] [[certificate](#)], ◉[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight/)  [ [ My takeaway ](#) ] [[certificate](#)], ◉[Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/)  [ [ My Project ](#) ] [[certificate](#)]
 
 # Overview :
     Professors :  Vijay Kumar
