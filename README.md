@@ -1,5 +1,5 @@
 # Robotics | University of Pennsylvania | Specialization
-Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp.upenn.edu/) (general robotics, automation, sensing & perception laboratory at Penn) | GRASP MOtivation: [A](https://youtu.be/YQIMGV5vtd4) | [B](https://youtu.be/_sUeGC-8dyk) | C | D
+Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp.upenn.edu/) (general robotics, automation, sensing & perception laboratory at Penn) | GRASP Motivation: [A](https://youtu.be/YQIMGV5vtd4) | [B](https://youtu.be/_sUeGC-8dyk) | C | D
 
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/logo-grasp_banner.png">
 
@@ -16,7 +16,7 @@ Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp
                   Jianbo Shi
                   Kostas Daniilidis
                   Sid Deliwala
-# Motivation
+# Association
 Stanford Robotics Club
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
 Boston Dynamics | Lockheed Martin | Nasa | Tesla
