@@ -19,4 +19,6 @@ Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp
 # Association
 Stanford Robotics Club
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
-Boston Dynamics | Lockheed Martin | Nasa | Tesla
+<img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/roboaec.png">
+
+Inspiration - Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google
