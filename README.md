@@ -25,6 +25,11 @@ Being a Team Member of Stanford's Robotic Club is itself an honour to work with 
 
 
 
+# Inspiration
+Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google | SpaceX
+
+[Stanford](https://cs.stanford.edu/groups/manips/) | [CMU](https://www.ri.cmu.edu/) | [MIT](https://robotics.mit.edu/) , [Team](http://roboteam.mit.edu/) | [Harvard](http://hrl.harvard.edu/people/) | [Cornell](http://www.robotics.cornell.edu/courses/) | [QUT: Robotics Vision](https://robotacademy.net.au/) | [Robotics Playlist(Youtube)](#) | [ETH-Zurich](http://www.iris.ethz.ch/) | [EPFL](https://lis.epfl.ch/)
+
 # Resources : (Courses I followed)
 
 [Stanford : CS223A - Introduction to Robotics](https://see.stanford.edu/Course/CS223A/33) # [[My Takeaway]](#)
@@ -35,10 +40,6 @@ Being a Team Member of Stanford's Robotic Club is itself an honour to work with 
 
 [This Awesome list is Awesome](https://github.com/kiloreux/awesome-robotics) 🚀 🚀 🚀 👾
 
-# Inspiration
-Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google | SpaceX
-
-[Stanford](https://cs.stanford.edu/groups/manips/) | [CMU](https://www.ri.cmu.edu/) | [MIT](https://robotics.mit.edu/) , [Team](http://roboteam.mit.edu/) | [Harvard](http://hrl.harvard.edu/people/) | [Cornell](http://www.robotics.cornell.edu/courses/) | [QUT: Robotics Vision](https://robotacademy.net.au/) | [Robotics Playlist(Youtube)](#) | [ETH-Zurich](http://www.iris.ethz.ch/) | [EPFL](https://lis.epfl.ch/)
 
 
 
