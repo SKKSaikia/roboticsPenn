@@ -22,3 +22,5 @@ Stanford Robotics Club
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/roboaec.png">
 
 Inspiration - Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google
+
+[Stanford Robotics](https://cs.stanford.edu/groups/manips/)
