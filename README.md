@@ -38,9 +38,9 @@ Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Rob
 
 # Resources : (Courses I followed)
 
-[Stanford : CS223A - Introduction to Robotics](https://see.stanford.edu/Course/CS223A/33) [- My Takeaway](#)
+[Stanford : CS223A - Introduction to Robotics](https://see.stanford.edu/Course/CS223A/33) [-------- [My Takeaway]](#)
 
-[MIT : 6.832 - Underactuated Robotics](http://underactuated.mit.edu/underactuated.html) [, edX](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/) [- My Takeaway](#)
+[MIT : 6.832 - Underactuated Robotics](http://underactuated.mit.edu/underactuated.html) [, edX](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/) [-------- [My Takeaway]](#)
 
-[CS 8802, Artificial Intelligence for Robotics: Programming a Robotic Car](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) [- My Takeaway](#)
+[CS 8802, Artificial Intelligence for Robotics: Programming a Robotic Car](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) [-------- [My Takeaway]](#)
 
