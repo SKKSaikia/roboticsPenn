@@ -1,5 +1,5 @@
 # Robotics | University of Pennsylvania | Specialization
-Coursera Specialization: <b>Robotics</b> 🛰| UPenn
+Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp.upenn.edu/) (general robotics, automation, sensing & perception laboratory at Penn)
 
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/logo-grasp_banner.png">
 
