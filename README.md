@@ -17,10 +17,11 @@ Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp
                   Kostas Daniilidis
                   Sid Deliwala
 # Association
-Stanford Robotics Club
+[Stanford Robotics Club](http://roboticsclub.stanford.edu/)
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
+Being a Team Member of Stanford's Robotic Club is itself an honour to work with amazing
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/roboaec.png">
 
 Inspiration - Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google
 
-[Stanford Robotics](https://cs.stanford.edu/groups/manips/)
+[Stanford](https://cs.stanford.edu/groups/manips/) | [CMU](https://www.ri.cmu.edu/) | [MIT](https://robotics.mit.edu/) , [Team](http://roboteam.mit.edu/) | [Harvard](http://hrl.harvard.edu/people/)
