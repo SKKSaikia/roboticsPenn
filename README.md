@@ -16,7 +16,7 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 
 [Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/)  [ [ My Project ](#) ] [[certificate](#)]
 
-# Taught By :
+# Overview :
     Professors :  Vijay Kumar
                   CJ Taylor
                   Daniel E. Koditschek
@@ -24,6 +24,8 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
                   Jianbo Shi
                   Kostas Daniilidis
                   Sid Deliwala
+                  
+<b>What did I Learn ?<b>
                   
 # Association [Robotics Association]
 [Stanford Robotics Club](http://roboticsclub.stanford.edu/)
