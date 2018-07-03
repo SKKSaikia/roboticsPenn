@@ -38,7 +38,7 @@ Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Rob
 
 [CS 8802, Artificial Intelligence for Robotics: Programming a Robotic Car](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) # [[My Takeaway]](#)
 
-[This Awesome list is Awesome](https://github.com/kiloreux/awesome-robotics) 🚀 🚀 🚀 👾
+[This Awesome list is Awesome](https://github.com/kiloreux/awesome-robotics) 🚀 🚀 🚀 👾 | [People You need to know](https://www.quora.com/Who-are-the-worlds-top-10-robotics-science-experts)
 
 
 
