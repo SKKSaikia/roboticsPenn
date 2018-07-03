@@ -18,5 +18,5 @@ Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp
                   Sid Deliwala
 # Motivation
 Stanford Robotics Club
-
+<img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
 Boston Dynamics | Lockheed Martin | Nasa | Tesla
