@@ -29,7 +29,7 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 [Stanford Robotics Club](http://roboticsclub.stanford.edu/)
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
 Being a Team Member of Stanford's Robotic Club is itself an honour to work with amazing
-<img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/roboaec.png">
+<img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssi.png">
 
 # Inspiration
 Northrop Grumman | Boston Dynamics | Lockheed Martin | Nasa | Tesla | Liquid Robotics | Google
