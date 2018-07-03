@@ -5,17 +5,17 @@ Coursera Specialization: <b>Robotics</b> 🛰| UPenn : [GRASP](https://www.grasp
 
 # Courses:
 
-[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)  [( My takeaway )](#)
+[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)  [[ My takeaway ]](#)
 
-[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [( My takeaway )](#)
+[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [[ My takeaway ]](#)
 
-[]()
+[Robotics: Perception](https://www.coursera.org/learn/robotics-perception/)
 
-[]()
+[Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning/)
 
-[]()
+[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight/)
 
-[]()
+[Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/) 
 
 # Taught By :
     Professors :  Vijay Kumar
