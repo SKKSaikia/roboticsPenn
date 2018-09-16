@@ -16,8 +16,10 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
                   Kostas Daniilidis
                   Sid Deliwala
                   
-<b>What did I Learn ?<b>
-   Enrolled and Started with the course, will keep updated. 
+<b>What did I Learn ?<b><br/>
+    
+   
+    Enrolled and Started with the course, will keep updated. 
     ...
                   
 # Association [Robotics Association]
