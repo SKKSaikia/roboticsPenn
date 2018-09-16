@@ -23,7 +23,7 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
 Had the honour to work with the Stanford Mars Rover #Science team ; prep work for the URC 2019.
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssi.png">
-The [SSI](https://stanfordssi.org/) and End Station III is on a league of its own.
+The [SSI](https://stanfordssi.org/) and End Station III is on a league of its own. Also a member of IEEE: RAS (Robotics and Automation Society)
 
 
 
