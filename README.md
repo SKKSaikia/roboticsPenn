@@ -3,7 +3,7 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/logo-grasp_banner.png">
 
-# Courses: [◉ Certificate]()
+# Courses: [◉ certificate]()
 
 ◉[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/)   [[certificate](#)], ◉[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility/)  [[certificate](#)], ◉[Robotics: Perception](https://www.coursera.org/learn/robotics-perception/)   [[certificate](#)], ◉[Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning/)   [[certificate](#)], ◉[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight/)   [[certificate](#)], ◉[Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone/)   [[certificate](#)]
 
@@ -17,6 +17,8 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
                   Sid Deliwala
                   
 <b>What did I Learn ?<b>
+   Enrolled and Started with the course, will keep updated. 
+    ...
                   
 # Association [Robotics Association]
 [Stanford Robotics Club](http://roboticsclub.stanford.edu/)
