@@ -20,8 +20,9 @@ Coursera Specialization: <b>[Robotics](https://www.coursera.org/specializations/
 # Association [Robotics Association]
 [Stanford Robotics Club](http://roboticsclub.stanford.edu/)
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssrc.png">
-Being a Team Member of Stanford's Robotic Club is itself an honour to work with amazing
+Had the honour to work with the Stanford Mars Rover #Science team ; prep work for the URC 2019.
 <img src="https://github.com/SKKSaikia/roboticsPenn/blob/master/res/ssi.png">
+The [SSI](https://stanfordssi.org/) and End Station III is on a league of its own.
 
 
 
